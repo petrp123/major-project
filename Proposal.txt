@@ -1,3 +1,18 @@
 Major Project Proposal for Computer Science 30
 
-To be filled later...
+Possible Ideas:
+	-Flappy Bird Style Game
+	-Finish snakes game
+	-simple jump game
+	-click game (avoid touching anything or shooter style)
+
+Description:
+	
+
+TimeLine:
+
+
+Must Haves:
+
+
+Nice to Haves:
