@@ -1,18 +1,26 @@
 Major Project Proposal for Computer Science 30
 
-Possible Ideas:
-	-Flappy Bird Style Game
-	-Finish snakes game
-	-simple jump game
-	-click game (avoid touching anything or shooter style)
+Flappy Bird Style Game
+
 
 Description:
-	
+	For my final project im going design a game similar to flappy bird. It is a game where you have a character that is constantly moving
+	right and must jump through lines that change constantly.
 
 TimeLine:
-
-
+	we currently have 6-7 weeks to complete our final projects. I will spend the next two weeks figuring out the basic coding like jumping
+	and collision. After that is done I will figure out how the screen is constantly moving right and how the pillars are randomly generated.
+	After that I will spend the rest of the time making it look nice and creating states for different things I could include.
+	
 Must Haves:
-
+	1. A character that drifts right constantly and can jump
+	2. A basic map set up with pillars
+	3. A Reset function that detects if you touch the pillars
+	4. The map must constantly move right.
 
 Nice to Haves:
+	1. A special character for the "flappy bird"
+	2. States like a start screen, end screen, game screen.
+	3. A score and highscore counter.
+	4. Special add ons as you get further.
+	5. Speed increases depending on how far you are.
